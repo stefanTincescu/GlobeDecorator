@@ -1,0 +1,7 @@
+Requirments:
+
+- Scan the tree, using the Thingmark.
+- Be able to place at least 10 globes.
+- Be able to adjust the color and the position of the globe.
+- Option to delete any globe
+- Be able to draw on the screen.
