@@ -1,0 +1,628 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "class": "",
+    "viewtype": "ar"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true",
+            "dropshadow": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "Globe-2",
+                    "show-sequence-in-canvas": "false",
+                    "widget-name": "Globe-2",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/One Christmas Gold Ball UV_Low.pvz",
+                    "scale": "1.0000",
+                    "x": "-0.096",
+                    "y": "0.0407",
+                    "z": "0.0957",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Actual-2",
+                            "widget-name": "Actual-2",
+                            "click-expression": "ChangeCurrentGlobe();",
+                            "is-widget-container": "true",
+                            "model": "Globe-2",
+                            "idpath": "/41",
+                            "scale": "0.1000",
+                            "x": "0.0518",
+                            "y": "0.0022",
+                            "z": "-0.0853",
+                            "rx": "-161.14",
+                            "ry": "53.08",
+                            "rz": "-74.73",
+                            "color": "rgba(255,0,0, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Ignore-2",
+                            "widget-name": "Ignore-2",
+                            "is-widget-container": "true",
+                            "model": "Globe-2",
+                            "idpath": "/39",
+                            "scale": "0.000001",
+                            "x": "0.0000",
+                            "y": "0.0000",
+                            "z": "-0.1206",
+                            "rx": "-90.00",
+                            "ry": "0.00",
+                            "rz": "0.00",
+                            "color": "rgba(255,0,255, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "Firs",
+                    "widget-name": "Firs",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/realistictrees2_High.pvz",
+                    "scale": "1",
+                    "x": "0.1754",
+                    "y": "0.1835",
+                    "z": "0.0683",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Small",
+                            "widget-name": "Small",
+                            "is-widget-container": "true",
+                            "model": "Firs",
+                            "idpath": "/43",
+                            "scale": "1",
+                            "x": "-0.1766",
+                            "y": "-0.1834",
+                            "z": "-0.0661",
+                            "rx": "-90.00",
+                            "ry": "-5.88",
+                            "rz": "-0.00",
+                            "color": "rgba(0,128,0, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Medium",
+                            "widget-name": "Medium",
+                            "is-widget-container": "true",
+                            "model": "Firs",
+                            "idpath": "/45",
+                            "scale": "0.01",
+                            "x": "-0.1727",
+                            "y": "-0.1818",
+                            "z": "-0.0716",
+                            "rx": "-90.00",
+                            "ry": "0.00",
+                            "rz": "0.00",
+                            "color": "rgba(0,128,0, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Tall",
+                            "widget-name": "Tall",
+                            "is-widget-container": "true",
+                            "model": "Firs",
+                            "idpath": "/44",
+                            "scale": "0.01",
+                            "x": "-0.2722",
+                            "y": "-0.1819",
+                            "z": "-0.0246",
+                            "rx": "90.00",
+                            "ry": "-22.98",
+                            "rz": "180.00",
+                            "color": "rgba(0,128,0, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "Globe-1",
+                    "show-sequence-in-canvas": "false",
+                    "widget-name": "Globe-1",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/One Christmas Gold Ball UV_Low.pvz",
+                    "scale": "1.0000",
+                    "x": "-0.1100",
+                    "y": "0.0407",
+                    "z": "0.0957",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Actual-1",
+                            "widget-name": "Actual-1",
+                            "click-expression": "ChangeCurrentGlobe();",
+                            "is-widget-container": "true",
+                            "model": "Globe-1",
+                            "idpath": "/41",
+                            "scale": "0.0700",
+                            "x": "0.1005",
+                            "y": "0.0097",
+                            "z": "-0.0906",
+                            "rx": "-127.66",
+                            "ry": "53.08",
+                            "rz": "-74.73",
+                            "color": "rgba(128,0,255, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Ignore-1",
+                            "widget-name": "Ignore-1",
+                            "is-widget-container": "true",
+                            "model": "Globe-1",
+                            "idpath": "/39",
+                            "scale": "0.000001",
+                            "x": "0.0000",
+                            "y": "0.0000",
+                            "z": "-0.1206",
+                            "rx": "-90.00",
+                            "ry": "0.00",
+                            "rz": "0.00",
+                            "color": "rgba(255,0,255, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "thingMark-1",
+                    "tracking-indicator": "true",
+                    "widget-name": "thingMark-1",
+                    "width": "0.0254",
+                    "y": "0.0000",
+                    "rx": "-90.00",
+                    "ry": "-0.00",
+                    "rz": "-0.00"
+                  },
+                  "name": "twx-dt-target",
+                  "children": [
+                    {
+                      "attributes": {
+                        "databind-id": "db-1576485918673",
+                        "source-type": "data",
+                        "source-name": "vumark",
+                        "source-item-type": "value",
+                        "source-item-name": "vumark",
+                        "binding-type": "custom_field",
+                        "from-expression": "app.params['vumark']",
+                        "to-property": "markerId"
+                      },
+                      "name": "twx-databind"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "Globe-3",
+                    "show-sequence-in-canvas": "false",
+                    "widget-name": "Globe-3",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/One Christmas Gold Ball UV_Low.pvz",
+                    "scale": "1.0000 1.0000 1.0000",
+                    "x": "-0.0783",
+                    "y": "0.0405",
+                    "z": "0.0908",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.38"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Actual-3",
+                            "widget-name": "Actual-3",
+                            "click-expression": "ChangeCurrentGlobe();",
+                            "is-widget-container": "true",
+                            "model": "Globe-3",
+                            "idpath": "/41",
+                            "scale": "0.1000 0.1000 0.1000",
+                            "x": "0.093",
+                            "y": "0.0022",
+                            "z": "-0.0771",
+                            "rx": "-161.14",
+                            "ry": "53.08",
+                            "rz": "-74.73",
+                            "color": "rgba(255,0,0, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "Ignore-3",
+                            "widget-name": "Ignore-3",
+                            "is-widget-container": "true",
+                            "model": "Globe-3",
+                            "idpath": "/39",
+                            "scale": "0.000001",
+                            "x": "0.0000",
+                            "y": "0.0000",
+                            "z": "-0.1206",
+                            "rx": "-90.00",
+                            "ry": "0.00",
+                            "rz": "0.00",
+                            "color": "rgba(255,0,255, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "3DLabel-1",
+                    "state-format-value": "text",
+                    "font-color": "white",
+                    "widget-name": "3DLabel-1",
+                    "scale": "0.1000",
+                    "x": "-0.0053",
+                    "y": "0.0673",
+                    "z": "0.0133",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "billboard": "true"
+                  },
+                  "name": "twx-dt-label"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "2DOverlay-1",
+            "widget-name": "2D Overlay",
+            "is-widget-container": "true"
+          },
+          "name": "twx-overlay",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-1",
+                    "widget-name": "Top Panel",
+                    "is-widget-container": "true",
+                    "position": "top"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "dropdown",
+                            "widget-name": "dropdown",
+                            "change-expression": "ChangeFir();",
+                            "value": "Small",
+                            "valuefield": "size",
+                            "displayfield": "size",
+                            "label": "Fir Type"
+                          },
+                          "name": "twx-select",
+                          "children": [
+                            {
+                              "attributes": {
+                                "databind-id": "db-1576237522304",
+                                "source-type": "data",
+                                "source-name": "List",
+                                "source-item-type": "value",
+                                "source-item-name": "List",
+                                "binding-type": "custom_field",
+                                "from-expression": "app.params['List']",
+                                "to-property": "list"
+                              },
+                              "name": "twx-databind",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "filter-id": "df-1576237581772",
+                                    "filter-name": "string2json",
+                                    "filter-body": "return JSON.parse(value)"
+                                  },
+                                  "name": "twx-data-filter"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "2DOverlayBody-1",
+                    "widget-name": "2D Body",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-overlay-body",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-4",
+                            "widget-name": "panel-4",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-panel",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "slider-1",
+                                    "widget-name": "slider-1"
+                                  },
+                                  "name": "twx-range"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-5",
+                    "widget-name": "Bottom Panel",
+                    "is-widget-container": "true",
+                    "position": "bottom"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "gridLayout-1",
+                            "widget-name": "gridLayout-1",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-gridlayout",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "row-1",
+                                    "widget-name": "row-1",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-row",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-1",
+                                            "widget-name": "column-1",
+                                            "is-widget-container": "true",
+                                            "flexdirection": "row",
+                                            "justification": "center"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content",
+                                              "children": [
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "button-3",
+                                                    "widget-name": "button-3",
+                                                    "click-expression": "MoveH(-1);",
+                                                    "text": "←",
+                                                    "class": "button"
+                                                  },
+                                                  "name": "twx-button"
+                                                },
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "button-4",
+                                                    "widget-name": "button-4",
+                                                    "click-expression": "MoveV(-1);",
+                                                    "text": "↓",
+                                                    "class": "button"
+                                                  },
+                                                  "name": "twx-button"
+                                                },
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "button-1",
+                                                    "widget-name": "button-1",
+                                                    "click-expression": "MoveV(1);",
+                                                    "text": "↑",
+                                                    "class": "button"
+                                                  },
+                                                  "name": "twx-button"
+                                                },
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "button-2",
+                                                    "widget-name": "button-2",
+                                                    "click-expression": "MoveH(1);",
+                                                    "text": "→",
+                                                    "class": "button"
+                                                  },
+                                                  "name": "twx-button"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

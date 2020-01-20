@@ -1,0 +1,21 @@
+[2019-12-13T09:48:38.135Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Begin upgrade of project
+[2019-12-13T09:48:38.137Z] info: [twx-studio:upgrade:Christmas_Tree_Decorator] Upgrading project
+[2019-12-13T09:48:38.161Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Make sure there are not any stale files lying around
+[2019-12-13T09:48:38.162Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Create .gitignore for project dir
+[2019-12-13T09:48:38.162Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Copying /src/**/* to project, overwrite=false
+[2019-12-13T09:48:38.163Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-12-13T09:48:38.208Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Copy of project files complete
+[2019-12-13T09:48:38.208Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Updating version to 
+[2019-12-13T09:48:38.208Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] onupgrade sucessful, now build the project
+[2019-12-13T09:48:38.208Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] BEGIN buildApp
+[2019-12-13T09:48:38.208Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] write settings
+[2019-12-13T09:48:38.208Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] copy runtime extensions
+[2019-12-13T09:48:38.383Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] packageThemeSet
+[2019-12-13T09:48:38.958Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] onBuild
+[2019-12-13T09:48:38.958Z] info: [twx-studio:upgrade:Christmas_Tree_Decorator] Building ves-ar-extension app:
+[2019-12-13T09:48:38.964Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] pathDir
+[2019-12-13T09:48:38.964Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] scaffoldDir
+[2019-12-13T09:48:38.964Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] copySrc
+[2019-12-13T09:48:39.080Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] buildApp
+[2019-12-13T09:48:39.224Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] END buildApp
+[2019-12-13T09:48:39.224Z] debug: [twx-studio:upgrade:Christmas_Tree_Decorator] Build succeeded.
